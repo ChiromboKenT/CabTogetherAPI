@@ -8,11 +8,11 @@ cd cab-api
 ```
 ## Running app
 ```bash
-sudo docker-compose up
+docker-compose up -d
 ```
 ## Stopping app
 ```bash
-sudo docker-compose down
+docker-compose down -v
 ```
 # Methods
 ## Getting all offers (GET to `/api`)
