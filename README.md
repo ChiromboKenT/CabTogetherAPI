@@ -1,5 +1,4 @@
-#  :poultry_leg: CASA: **CA**b **S**haring **A**pi
-API for cab sharing posts. Currently work in progress.
+#API for cab sharing.
 # Running locally
 ## Set up
 [Docker](https://docs.docker.com/install/linux/docker-ce/ubuntu/) and [Docker Compose](https://docs.docker.com/compose/install/) are required to run the app using Docker containers.
